@@ -1,0 +1,26 @@
+// iPhone
+"Label[platform=ios]": {
+    backgroundColor: "purple"
+}
+
+
+".labels[platform=android] ":{
+	text: 'ANDROID :: GRAY background - PURPLE labelBG - BLACK label',
+	font:{
+		fontSize:'24dp'
+	}
+}
+
+
+//iPhone HANDHELD
+"#label1[platform=ios formFactor=handheld]":{
+	text: 'iOS Handheld :: GREEN bg - PURPLE labelBG - WHITE Label'
+}
+
+
+//iPhone TABLET
+"#label1[formFactor=tablet]":{
+	text: 'iOS Tablet :: GREEN bg - PURPLE labelBG - WHITE Label'
+}
+
+

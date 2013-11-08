@@ -1,0 +1,15 @@
+"Label":{
+	font:{
+		fontSize:'24dp'
+	}
+}
+
+"Window":{
+	layout:'vertical'
+}
+
+'#index': {
+	backgroundColor: '#fff',
+	fullscreen: false,
+	exitOnClose: true
+}

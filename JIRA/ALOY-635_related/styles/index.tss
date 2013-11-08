@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor: "#313131"
+},
+Label: {
+	font: {
+		fontSize: "24dp"
+	},
+	width: Ti.UI.FILL,
+	color: 'red'
+}

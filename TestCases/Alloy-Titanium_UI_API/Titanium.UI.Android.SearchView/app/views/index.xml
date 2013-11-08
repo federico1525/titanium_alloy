@@ -1,0 +1,10 @@
+<Alloy>
+    <Window id="win" backgroundColor="blue" fullscreen="false" layout="vertical">
+        <TableView id="tableview" top="10">
+            <TableViewRow title="Apple" />
+            <TableViewRow title="Banana" />
+            <TableViewRow title="Orange" />
+            <TableViewRow title="Raspberry" />
+        </TableView>
+    </Window>
+</Alloy>

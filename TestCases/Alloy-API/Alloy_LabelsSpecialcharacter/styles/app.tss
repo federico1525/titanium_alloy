@@ -1,0 +1,28 @@
+"Window":{
+	title:"Test Window! @#$%^&*{}'?><<+=-/., \n <>|[]`~   ∑´®®†",
+	backgroundColor:'gray',
+	fullscreen:false}
+	
+"#mainview":{	
+	width:'80%',	
+	backgroundColor:'purple',	
+	height:Ti.UI.SIZE
+}
+
+"Label":{
+	font:{
+		fontSize:'24dp'
+	}
+}
+// 
+// "#topLabel":{
+	// text:'pippo \ pluto'
+// }
+
+"#label":{
+	// text: "@#$%^&*{}?><<+=-/.,<>|[]`~  \n   pippoooo"
+	text:"hsbhbh  \n  @#$%^&*{}'?><<+=-/., \n <>|[]`~ \n someText followed by some weird characters \n\n\n œ∑´®†¥¨ˆøπ““‘«æ…¬˚∆˙©ƒ∂ßåΩç√√∫˜µ≤≥÷÷¡™£¢∞§¶•ªº–≠",
+	font:{
+		fontSize:'24dp'
+	}
+}

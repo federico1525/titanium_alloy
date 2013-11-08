@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id='win2'>
+		<Label id='label2' onClick='popWin'></Label>
+		<Label onClick='popWin' top='50'>Click here to POP window</Label>
+	</Window>
+</Alloy>

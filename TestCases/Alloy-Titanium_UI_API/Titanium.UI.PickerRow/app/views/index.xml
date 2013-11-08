@@ -1,0 +1,30 @@
+<Alloy>
+    <Window id="win" backgroundColor="white" layout="vertical" exitOnClose="true">
+        <Picker id="picker" top="50" selectionIndicator="true">
+            <PickerColumn id="column1">
+
+                <!-- On iOS, views can be added to picker rows -->
+                <PickerRow>
+                    <Label color="red" textAlign="left" width="126">Bananas</Label>
+                </PickerRow>
+                <PickerRow>
+                    <Label color="red" textAlign="left" width="126">Strawberries</Label>
+                </PickerRow>
+                <PickerRow>
+                    <Label color="red" textAlign="left" width="126">Mangos</Label>
+                </PickerRow>
+                <PickerRow>
+                    <Label color="red" textAlign="left" width="126">Grapes</Label>
+                </PickerRow>
+            </PickerColumn>
+
+            <!-- Picker shorthand notation -->
+            <Column id="column2">
+                <Row title="red"/>
+                <Row title="green"/>
+                <Row title="blue"/>
+                <Row title="orange"/>
+            </Column>
+        </Picker>
+    </Window>
+</Alloy>

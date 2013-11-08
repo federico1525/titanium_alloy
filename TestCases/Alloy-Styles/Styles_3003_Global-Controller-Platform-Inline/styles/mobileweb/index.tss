@@ -1,0 +1,18 @@
+
+// Android
+"Label[platform=mobileweb]": {
+    backgroundColor: "purple"
+}
+
+
+".labels[platform=mobileweb] ":{
+	text: 'MOBILEWEB :: GRAY background - PURPLE labelBG - BLACK label',
+	font:{
+		fontSize:'24dp'
+	}
+}
+
+//Android HANDHELD
+"#label1[platform=mobileweb]":{
+	text: 'MOBILEWEB :: GREEN bg - PURPLE labelBG - WHITE Label'
+}

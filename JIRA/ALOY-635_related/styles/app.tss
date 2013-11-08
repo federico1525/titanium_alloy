@@ -1,0 +1,25 @@
+Window: {
+	barColor: '#000',
+	barImage: 'header.png',
+	backgroundColor: "#fff"
+},
+ 
+TextArea: {
+	autocapitalization: Ti.UI.TEXT_AUTOCAPITALIZATION_NONE,
+	autocorrect: false
+},
+ 
+Label: {
+	color:'#000',
+	height:Ti.UI.SIZE,
+	width:Ti.UI.SIZE,
+	backgroundColor: 'gray'
+},
+ 
+'.container': {
+	backgroundColor: '#fff'
+},
+ 
+'.darkContainer': {
+	backgroundColor: '#313131'
+}

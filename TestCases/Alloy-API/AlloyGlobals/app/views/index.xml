@@ -1,0 +1,9 @@
+<Alloy>
+    <Window id="win" backgroundColor="white" exitOnClose="true" fullscreen="false" title="ScrollView Demo">
+        <View id="view" backgroundColor="#336699">
+        	<Label id='label1' top='20'>platform key: </Label>
+        	<Label id='label2' top='80'>global key: </Label>
+        	<Label id='label3' top='140'>environment: </Label>
+        </View>
+    </Window>
+</Alloy>

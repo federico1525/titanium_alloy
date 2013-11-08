@@ -1,0 +1,5 @@
+<Alloy>
+    <Window>
+        <Notification id="toast" platform="android" message="Please Stand By" duration="Ti.UI.NOTIFICATION_DURATION_LONG" />
+    </Window>
+</Alloy>

@@ -1,0 +1,11 @@
+<Alloy>
+	<Window>
+		<TableView id="table" onClick="loadView">
+			<TableViewRow class="row" modelId="1">
+				<View class="rowContainer">
+					<Label class="title" text="titolo 1"/>		
+				</View>
+			</TableViewRow>
+		</TableView>
+	</Window>
+</Alloy>

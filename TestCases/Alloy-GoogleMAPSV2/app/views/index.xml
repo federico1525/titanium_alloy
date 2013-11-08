@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="win">
+		<View class='container'>
+			<Label id='label' class='title'>Alloy Test MapsV2a</Label>
+			<Button id='button' onClick='multiMapTest'>Click</Button>
+		</View>
+	</Window>
+</Alloy>

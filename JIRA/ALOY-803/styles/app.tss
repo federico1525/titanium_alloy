@@ -1,0 +1,18 @@
+"Label":{
+	color:'black',
+	font:{
+		fontSize:'20dp'
+	}
+}
+
+"Window":{
+	backgroundColor:'white'
+}
+
+"TableViewRow":{
+	color:'black',
+	font:{
+		fontSize:'20dp'
+	},
+	height:'80'
+}

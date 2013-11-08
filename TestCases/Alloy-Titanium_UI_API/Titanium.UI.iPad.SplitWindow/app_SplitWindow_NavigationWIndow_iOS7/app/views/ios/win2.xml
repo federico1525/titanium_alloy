@@ -1,0 +1,7 @@
+<Alloy>
+	<Window modal='true'>
+		<Label>New Detail Window</Label>
+		<Button top='20' onClick='closeWindow2'>Click to Close Detail Window</Button>
+		<Button top='20' onClick='closeWindow1'>Click to Close Master Window</Button>
+	</Window>
+</Alloy>

@@ -1,0 +1,17 @@
+"Window":{
+	backgroundColor:'white',
+	layout:'vertical',
+	fullscreen:false
+}
+
+"Label":{
+	color:'purple',
+	font:{
+		fontSize:'20dp'
+	}		
+}
+
+"#viewRowContainer":{
+	layout:'vertical',
+	height:Ti.UI.SIZE	
+}

@@ -1,0 +1,9 @@
+"#win2":{
+	backgroundColor : 'gray',
+	barColor : 'orange',
+	navTintColor : 'purple',
+	// translucent : false,
+	tabBarHidden : false,
+	// navBarHidden : true,
+	// fullscreen : true,
+}

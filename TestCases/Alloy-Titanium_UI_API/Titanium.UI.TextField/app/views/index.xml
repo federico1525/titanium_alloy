@@ -1,0 +1,5 @@
+<Alloy>
+    <Window id="win">
+        <TextField id="textField"/>
+    </Window>
+</Alloy>

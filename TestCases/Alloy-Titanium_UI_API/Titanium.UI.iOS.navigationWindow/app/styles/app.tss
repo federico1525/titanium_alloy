@@ -1,0 +1,9 @@
+"Label":{
+	font:{
+		fontSize:'24dp'
+	}
+}
+
+"Window":{
+	layout:'vertical'
+}

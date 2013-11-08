@@ -1,0 +1,11 @@
+<Alloy>
+	<NavigationWindow platform='ios' id='navWin' class='navigation'>
+		<Window id='win1' class='window'>
+			<Label id='label1' top='20'></Label>
+			<Button onClick='pushWin' top='30'>PUSH</Button>
+			<View id='tintView' layout="vertical">
+				<Button top='20'>Click</Button>
+			</View>
+		</Window>
+	</NavigationWindow>
+</Alloy>

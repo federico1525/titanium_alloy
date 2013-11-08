@@ -1,0 +1,6 @@
+<Alloy>
+    <Window id="win" backgroundColor="white">
+        <Slider id="slider" top="50" min="0" max="100" width="100%" value="50" onChange="updateLabel"/>
+        <Label id="label" width="100%" top="30" left="0" />
+    </Window>
+</Alloy>

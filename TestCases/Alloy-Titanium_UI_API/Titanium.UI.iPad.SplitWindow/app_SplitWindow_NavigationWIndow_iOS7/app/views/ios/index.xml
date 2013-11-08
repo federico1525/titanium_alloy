@@ -1,0 +1,23 @@
+<Alloy>
+    <SplitWindow id="index" formFactor="tablet">
+        <!-- First window is the masterView -->
+        <NavigationWindow id='navWin1'>
+            <Window title="Main Window">
+            	<Button onClick='Alloy.Globals.openWindow1'>Click</Button>
+                <Label>I am the master view</Label>
+            </Window>
+         </NavigationWindow>
+
+        <!-- Second window is the detailView -->
+        <NavigationWindow id='navWin2'>
+            <Window title="Detail Window">
+            	<Button onClick='Alloy.Globals.openWindow2'>Click</Button>
+                <Label>I am the detail view.</Label>
+            </Window>
+        </NavigationWindow>
+    </SplitWindow>
+
+    <Window id="index" formFactor="handheld">
+        <Label>This app is only supported on iPad</Label>
+    </Window>
+</Alloy>

@@ -1,0 +1,43 @@
+"Window": {
+	backgroundColor:"white",
+	layout:'vertical'
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "black",
+	font:{
+		fontSize:'16dp'
+	}
+} 
+
+".navigation":{
+	barColor:'orange'
+}
+
+".window":{
+	backgroundColor : 'white',
+	barColor : 'purple',
+	navTintColor : 'orange',
+	translucent : false,
+	tabBarHidden : false,
+	navBarHidden : false,
+	fullscreen : true
+}
+
+"#label1":{
+	text:'- You should see a purple navBar with the the titleControl label as defined in index.js\n\n- Status bar is hidden\n\n- "Click" button is red, color inherited from the tintColor property of the parent view'
+}
+
+"#label2":{
+	text: 'NavigationBar is orange and translucent - Back label is purple, inherited from the navTintColor, top status bar is visible and backgroundColor is gray'
+}
+
+
+"#tintView":{
+	tintColor:'red',
+	height:'50',
+	width:'80%',
+	backgroundColor:'gray'
+}

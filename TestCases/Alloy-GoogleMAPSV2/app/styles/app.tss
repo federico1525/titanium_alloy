@@ -1,0 +1,10 @@
+".title":{
+	top:30,
+	font:{
+		fontSize:'24dp'
+	}
+}
+
+"#label":{
+	color:'black'
+}

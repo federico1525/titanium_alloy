@@ -1,0 +1,6 @@
+<Alloy>
+	<Window>
+		<!-- <EmailDialog id="emailDialog" subject="Hello from Titanium" messageBody="<b>Appcelerator Titanium Rocks!</b>" /> -->
+		<Button onClick='sendEmail'>Click</Button>
+	</Window>
+</Alloy>

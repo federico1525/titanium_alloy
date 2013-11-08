@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=alloyTestV2
+android/abi=armeabi
+android/distribute_path=/Users/fcasali/development/Android_mapV2_testing
+android/keystore_alias=mapv2
+android/keystore_password=testing
+android/keystore_path=/Users/fcasali/development/Android_mapV2_testing/mapv2keystore
+android/recent_output=/Users/fcasali/development/Android_mapV2_testing
+android/sdk_version=Google APIs (Android 2.3.3)
+eclipse.preferences.version=1

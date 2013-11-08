@@ -1,0 +1,8 @@
+<Alloy>
+	<Window>
+		<!-- <Require src="header" title="pipo"> -->
+		<View id="container">
+			<Label>Click</Label>
+		</View>
+	</Window>
+</Alloy>

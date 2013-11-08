@@ -1,0 +1,11 @@
+<Alloy>
+    <Popover title='Kermit' height='100' width='250'>
+        <!-- Prior to Alloy 1.1.0, this property was set in the controller. -->
+        <RightNavButton>
+            <Button onClick='showAlert'>Robin</Button>
+        </RightNavButton>
+        <View backgroundColor='green'>
+            <Label>It's not easy being green.</Label>
+        </View>
+    </Popover>
+</Alloy>

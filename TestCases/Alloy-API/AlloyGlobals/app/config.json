@@ -1,0 +1,22 @@
+{
+	"global": {
+		"key": "defaultValue",
+		"anotherKey": 12345
+	},
+	"env:development": {
+		"environment": "development"
+	},
+	"env:test": {
+		"environment": "test"
+	},
+	"env:production": {
+		"environment": "production"
+	},
+	"os:ios": {
+		"key": "iosValue"
+	},
+	"os:android": {
+		"key": "androidValue"
+	},
+	"dependencies": {}
+}

@@ -1,0 +1,12 @@
+<Alloy>
+	<Window>
+		<TableView id="table" dataCollection="views" onClick="loadView">
+			<TableViewRow class="row" modelId="{id}">
+				<View class="rowContainer" id='viewRowContainer'>
+					<Label class="title" text="{title}"/>
+					<Label class="subtitle" text="{subtitle}"/>
+				</View>
+			</TableViewRow>
+		</TableView>
+	</Window>
+</Alloy>

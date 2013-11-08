@@ -1,0 +1,7 @@
+<Alloy>
+	<Window modal='true'>
+		<!-- <Button>Click to close</Button> -->
+		<Label>Master new Window</Label>
+		<Button top='20' onClick='closeWindow1'>Click</Button>
+	</Window>
+</Alloy>

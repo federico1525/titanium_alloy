@@ -1,0 +1,7 @@
+"Window":{
+	backgroundColor:'blue'
+}
+
+"Button":{
+	bottom:10
+}

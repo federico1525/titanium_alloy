@@ -1,0 +1,8 @@
+<Alloy>
+	<Window>
+		<Label top=5 id='topLabel'>foo \ bar</Label>
+		<View id='mainview'>
+			<Label id='label'></Label>
+		</View>
+	</Window>
+</Alloy>

@@ -1,0 +1,11 @@
+"#textArea":{
+	borderWidth: "2",
+	borderColor: "#bbb",
+	borderRadius: "5",
+	color: "#888",
+	textAlign: "left",
+	value: "I am a textarea",
+	top: "60",
+	width: "300",
+	height: "70"
+}

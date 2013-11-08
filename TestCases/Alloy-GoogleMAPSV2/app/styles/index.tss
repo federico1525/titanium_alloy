@@ -1,0 +1,11 @@
+"Window":{
+	backgroundColor: "white"
+}
+
+"Button":{
+	width:'100'
+}
+
+"Label":{
+	color:'green'
+}

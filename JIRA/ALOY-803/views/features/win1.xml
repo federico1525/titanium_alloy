@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="win">
+		<View id="container" class="container">
+			<Button bottom='5' onClick='changeStyle'>Click</Button>
+		</View>
+	</Window>
+</Alloy>
